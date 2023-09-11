@@ -27,21 +27,15 @@ The goal was to explore building intuitive human-computer interaction through co
 - Ability to view multiple images in a folder seamlessly
 - Easy to use
   
-# Gallery:
+# Gallery
 
-<!--
-![image](https://user-images.githubusercontent.com/93945976/208965906-ee3924cb-b7a7-44c8-a05e-ab708392c3b2.png)
+## Gesture Detection
+<img src="https://github.com/Amirkz80/GesturePic/assets/93945976/b5e66169-9bf5-4686-a358-564c5c321748" text-align='center' width="1000" height="500"/>
 
-![image](https://user-images.githubusercontent.com/93945976/208966072-19a0f719-3acf-4216-8cab-38b721817b4f.png)
+## Swipe with palm
+<img src="https://github.com/Amirkz80/GesturePic/assets/93945976/06dd5fe1-0788-49fb-a513-92fa72260448" text-align='center' width="1000" height="500"/>
 
-![image](https://user-images.githubusercontent.com/93945976/208966288-9838eaed-d19b-4b2c-8120-974be6ede6d3.png)
+## Swipe with index and middle fingers
+<img src="https://github.com/Amirkz80/GesturePic/assets/93945976/d38a7012-09bf-4df5-bc88-527343183f14" text-align='center' width="1000" height="500"/>
 
-![image](https://user-images.githubusercontent.com/93945976/208966434-31f0b04a-06fa-41ea-b04e-accebee94ed8.png)
 
-![image](https://user-images.githubusercontent.com/93945976/208966924-9ee570fb-5b53-4009-805d-5ce33232d1c9.png)-->
-
-![image](https://user-images.githubusercontent.com/93945976/208967979-eee9d352-8275-4230-aa27-35f233311ec3.png)
-
-![image](https://user-images.githubusercontent.com/93945976/208968086-864ef878-fd08-4602-b810-3737cbdaf0d4.png)
-
-![image](https://user-images.githubusercontent.com/93945976/208970432-2125257e-6812-4cbf-a4c2-86d02df10a13.png)
