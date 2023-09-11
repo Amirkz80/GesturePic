@@ -38,4 +38,6 @@ The goal was to explore building intuitive human-computer interaction through co
 ## Swipe with index and middle fingers
 <img src="https://github.com/Amirkz80/GesturePic/assets/93945976/d38a7012-09bf-4df5-bc88-527343183f14" text-align='center' width="1000" height="500"/>
 
+# Contact
 
+Email: "amirkazemzadeh" + "77" + @gmail.com
