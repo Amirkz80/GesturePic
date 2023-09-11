@@ -1,3 +1,5 @@
+![GesturePic](https://github.com/Amirkz80/GesturePic/assets/93945976/aa57d682-9e90-4aea-b4a7-65d4eee035d4)
+
 # GesturePic - Navigate Photos with Hand Gestures using Computer Vision 🖐🏻
 
 GesturePic allows users to navigate between photos using hand gestures detected with computer vision techniques.
